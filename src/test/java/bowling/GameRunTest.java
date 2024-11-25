@@ -60,7 +60,7 @@ class GameRunTest {
 			"On doit commencer le tour à la boule n°1");
 	}
 
-	/**
+	/***
 	 * Pas plus de 20 boules dans un jeu
 	 */
 	@Test

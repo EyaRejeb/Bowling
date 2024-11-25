@@ -8,6 +8,7 @@ import org.junit.jupiter.api.Test;
 
 class SinglePlayerGameTest {
 
+	
 	private PartieMonoJoueur partie;
 
 	@BeforeEach
@@ -15,7 +16,7 @@ class SinglePlayerGameTest {
 		partie = new PartieMonoJoueur();
 	}
 
-	/**
+	/***
 	 * Si on envoie toutes les 20 boules dans la rigole, le score final est 0
 	 */
 	@Test

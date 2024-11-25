@@ -10,7 +10,7 @@ import org.junit.jupiter.api.Test;
 class GameRunTest {
 
 	private PartieMonoJoueur partie;
-
+//
 	@BeforeEach
 	public void setUp() {
 		partie = new PartieMonoJoueur();
